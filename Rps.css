@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(35, 35, 35);
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#rules{
+   border: 5px solid;
+   border-radius: 3px;
+   margin: 10%;
+   margin-bottom: 3%;
+}
+#score{
+    font-size: 250% ;
+}
+#score div{
+    display: inline;
+    width: 30%;
+    margin: 10%;
+}
+
+#game{
+    float: none;
+    font-size: 200%;
+}
+button{
+    font-size: larger;
+    border: 5px solid;
+    border-radius: 5%;
+}
+button:hover{
+    border: 6px solid rgb(89, 2, 58);
+}
